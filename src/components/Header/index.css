@@ -1,0 +1,24 @@
+.header {
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+.logo {
+  height: 50px;
+  width: 100px;
+}
+.btn {
+  padding: 10px 15px 10px 15px;
+  border: 1px solid #ffffff;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+}

@@ -1,0 +1,21 @@
+.nf-logo {
+  width: 250px;
+  height: 250px;
+}
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hea {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #5a7184;
+}
+.description {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #c3cad9;
+}
